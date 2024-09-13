@@ -5,6 +5,6 @@
    },
    {
       "front": "Hinweis 2",
-      "back": "Tragen Sie dazu die Spaltennamen mit Anführungszeichen getrennt durch Komma zwischen die rechteckigen Klammern ein ('ID', 'Customer ID')."
+      "back": "Tragen Sie dazu die Spaltennamen mit Anführungszeichen getrennt durch Komma zwischen die rechteckigen Klammern ein ('Id', 'CustomerId')."
    }
 ]
