@@ -1,6 +1,6 @@
 [
    {
-      "front": "Hinweis 1",
-      "back": "Du hast dem Entscheidungsbaum in der Zelle oben einen Namen gegeben. Diesen Namen musst du an die Funktion plot_tree übergeben."
+      "front": "Hinweis 1/1",
+      "back": "Sie haben dem Entscheidungsbaum in der Zelle oben einen Namen gegeben. Diesen Namen müssen Sie an die Funktion plot_tree übergeben."
    }
 ]
