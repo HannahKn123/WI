@@ -1,10 +1,10 @@
 [
    {
-      "front": "Hinweis 1",
+      "front": "Hinweis 1/2",
       "back": "Mit dem Encoder können Sie alle Spalten, die nicht-numerische Daten enhält, in numerische Daten umwandeln. Wären dies beispielsweise die Spalten Dauer und Gehalt, müssten Sie anstelle des Platzhalters folgenden Text einfügen (inkl. Anführungszeichen): 'Dauer', 'Gehalt'. Machen Sie das zunächst für die Spalten mit nur zwei möglichen Werten."
    },
    {
-      "front": "Hinweis 2",
-      "back": "Für Spalten mit mehr als drei Werten, die man anordnen kann (z.B. die Dauer des Vertrag, wo mathematisch gesehen gilt, dass lang > mittel > kurz), muss man dem Encoder, die Reihenfolge manuell übergeben, da er ansonsten die Werte alphabetisch anordnet"
+      "front": "Hinweis 2/2",
+      "back": "Für Spalten mit mehr als drei Werten, die man anordnen kann (z.B. die Dauer des Vertrag, der mathematisch gesehen gilt, dass lang > mittel > kurz), muss man dem Encoder, die Reihenfolge manuell übergeben, da er ansonsten die Werte alphabetisch anordnet"
    }
 ]
