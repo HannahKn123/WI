@@ -1,8 +1,7 @@
 [
    {
       "front": "Hinweis 1/2",
-      "back": "Schauen Sie sich die Dokumentation der Funktion DecisionTreeClassifier an: 
-      https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html "
+      "back": "Schauen Sie sich die Dokumentation der Funktion DecisionTreeClassifier an: https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html "
    },
    {
       "front": "Hinweis 2/2",
