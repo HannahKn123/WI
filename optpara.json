@@ -1,6 +1,10 @@
 [
    {
-      "front": "Hinweis 1/1",
+      "front": "Hinweis 1/2",
+      "back": "Der optimale Paramter max_depth hat die höchste accuracy" 
+   },
+   {
+      "front": "Hinweis 2/2",
       "back": "Der optimale Parameter ist 6 (siehe Plot)."
    }
 ]
