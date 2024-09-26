@@ -1,7 +1,7 @@
 [
    {
       "front": "Hinweis 1/2",
-      "back": "Der optimale Paramter max_depth hat die höchste Accuracy." 
+      "back": "Der optimale Paramter n_estimators hat die höchste Accuracy." 
    },
    {
       "front": "Hinweis 2/2",
