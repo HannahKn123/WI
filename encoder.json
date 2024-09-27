@@ -12,7 +12,7 @@
       "back": "Für Spalten mit mehr als zwei Werten, die man anordnen kann (z.B. die Dauer des Vertrag, der mathematisch gesehen gilt, dass lang > mittel > kurz), muss man dem Encoder, die Reihenfolge manuell übergeben, da er ansonsten die Werte alphabetisch anordnet."
    },
    {
-      "front": "Hinweis 3/4",
+      "front": "Hinweis 4/4",
       "back": "Fügen Sie die Variablen Subscription Type und Contract Length in den zweiten Block ein (inkl. Anführungszeichen)."
    }
 ]
